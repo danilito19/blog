@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Data
+description:      "Improving our world through statistics, data, and programming"
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Dana Litovsky Alcalá
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: DataDanaL        
   facebook:       
-  github:         
+  github:  danilito19       
   stackexchange:  
   linkedin:       
   instagram:      
