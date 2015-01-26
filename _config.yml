@@ -1,4 +1,4 @@
-title:            Data
+title:            Socio-Data
 description:      "Improving our world through statistics, data, and programming"
 disqus_shortname: hpstrtheme
 reading_time:     true
@@ -10,9 +10,9 @@ url:
 # Owner/author information
 owner:
   name:           Dana Litovsky Alcalá
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  avatar:         perfil.jpg
+  bio:            "I enjoy solving public policy problems with statistics and data analysis. I travel, cook, and dream about the puppies I will one day have."
+  email:          danalitovsky@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: DataDanaL        
   facebook:       
@@ -23,7 +23,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
