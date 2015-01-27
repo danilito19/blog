@@ -7,7 +7,7 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
+comments: true
 share: 
 ---
 More than reading textbooks or watching videos, I learn by looking at someone else's project, running through the code, and imitating his/her steps to learn about the analysis. Writing this post also pushed me to understand the code; otherwise, I wouldn't be able to write about it.
