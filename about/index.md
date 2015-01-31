@@ -19,7 +19,8 @@ I was the only kid in statistics class to drool over the material. By the end of
 
 * Read Reddit
 * Hunt for [cheap flights](https://skiplagged.com)
-* Weightlift, do yoga, run
+* Weightlift, do yoga, run, and tackle my fitness goals
 * Cook restaurant-style meals at home with my husband
 * Read about financial independence
+* Ponder about remote work and plan a future as a digital nomad
 
