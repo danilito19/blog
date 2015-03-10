@@ -17,7 +17,8 @@ I was the only kid in statistics class to drool over the material. By the end of
 
 ## When I am not thinking about data, I:
 
-* Read Reddit
+* Freelance as a Spanish-English translator
+* Browse Reddit
 * Hunt for [cheap flights](https://skiplagged.com)
 * Weightlift, do yoga, run, and tackle my fitness goals
 * Cook restaurant-style meals at home with my husband
